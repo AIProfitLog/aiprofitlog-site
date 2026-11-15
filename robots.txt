@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aiprofitlog.com/sitemap.xml
